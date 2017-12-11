@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "lodash": "~2.0.0",
-    "temporary": "0.0.6"
+    "temporary": "0.0.8"
   },
   "devDependencies": {
     "chai": "~1.7.2",
